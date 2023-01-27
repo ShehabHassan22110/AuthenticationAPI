@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\AuthenticationApi\\AuthenticationApi\\AuthenticationApi.csproj": {}
+    "D:\\Univerisity Project\\Repo\\AuthenticationAPI\\AuthenticationApi\\AuthenticationApi.csproj": {}
   },
   "projects": {
-    "F:\\AuthenticationApi\\AuthenticationApi\\AuthenticationApi.csproj": {
+    "D:\\Univerisity Project\\Repo\\AuthenticationAPI\\AuthenticationApi\\AuthenticationApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\AuthenticationApi\\AuthenticationApi\\AuthenticationApi.csproj",
+        "projectUniqueName": "D:\\Univerisity Project\\Repo\\AuthenticationAPI\\AuthenticationApi\\AuthenticationApi.csproj",
         "projectName": "AuthenticationApi",
-        "projectPath": "F:\\AuthenticationApi\\AuthenticationApi\\AuthenticationApi.csproj",
-        "packagesPath": "C:\\Users\\fg\\.nuget\\packages\\",
-        "outputPath": "F:\\AuthenticationApi\\AuthenticationApi\\obj\\",
+        "projectPath": "D:\\Univerisity Project\\Repo\\AuthenticationAPI\\AuthenticationApi\\AuthenticationApi.csproj",
+        "packagesPath": "C:\\Users\\esooz\\.nuget\\packages\\",
+        "outputPath": "D:\\Univerisity Project\\Repo\\AuthenticationAPI\\AuthenticationApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\esooz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -94,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22330.6\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
